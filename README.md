@@ -153,14 +153,6 @@ data-warehouse-project/
 │
 ├── datasets/                           # Raw ERP and CRM datasets
 │
-├── docs/                               # Project documentation
-│   ├── etl.drawio                      # ETL process diagrams
-│   ├── data_architecture.drawio        # Architecture diagrams
-│   ├── data_catalog.md                 # Data dictionary and metadata
-│   ├── data_flow.drawio                # Data flow diagrams
-│   ├── data_models.drawio              # Star schema models
-│   └── naming-conventions.md           # Naming standards
-│
 ├── scripts/                            # SQL scripts
 │   ├── bronze/                         # Raw data ingestion scripts
 │   ├── silver/                         # Data transformation scripts
@@ -169,9 +161,7 @@ data-warehouse-project/
 ├── tests/                              # Data validation and testing scripts
 │
 ├── README.md                           # Project documentation
-├── LICENSE                             # License file
-├── .gitignore                          # Git ignore configuration
-└── requirements.txt                    # Project dependencies
+├──PowerBi File                         #Visualization 
 ```
 
 ---
