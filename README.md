@@ -193,18 +193,6 @@ This structure enables efficient analytical queries and reporting.
 
 ---
 
-# 📖 Documentation
-
-Additional project documentation can be found in the `docs/` directory:
-
-- Data Architecture
-- ETL Design
-- Data Flow Diagrams
-- Star Schema Models
-- Data Catalog
-- Naming Conventions
-
----
 
 # 🚀 Outcome
 
